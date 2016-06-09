@@ -1,4 +1,5 @@
 #include <Python.h>
+#define LINUX
 #include <GLES/egl.h>
 EGLDisplay display;
 EGLSurface surface;
